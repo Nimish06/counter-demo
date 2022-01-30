@@ -1,0 +1,26 @@
+.container {
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.button {
+  margin: 10px;
+}
+.buttonContainer1 {
+  float: right;
+  display: flex;
+  flex-direction: row;
+}
+.headerContainer {
+  float: left;
+  margin-left: 10px;
+}
+.buttonContainer2 {
+  flex-direction: row;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+}
